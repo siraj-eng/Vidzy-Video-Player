@@ -10,6 +10,7 @@ namespace Vidzy_Video_Player
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
